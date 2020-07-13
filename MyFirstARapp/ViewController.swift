@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  MyFirstARapp
-//
-//  Created by Nラボ on 2020/07/12.
-//  Copyright © 2020 naokisakano. All rights reserved.
-//
 
 import UIKit
 import SceneKit

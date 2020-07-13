@@ -1,10 +1,3 @@
-//
-//  MyFirstARappTests.swift
-//  MyFirstARappTests
-//
-//  Created by Nラボ on 2020/07/12.
-//  Copyright © 2020 naokisakano. All rights reserved.
-//
 
 import XCTest
 @testable import MyFirstARapp
